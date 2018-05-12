@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '32913'
     url: http://www.gutenberg.org/2009/agents/32913
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27849#Th-History-o-Haworth-Railway--13-fra-th-beginnin-to-th-end-wi-an-ackaant-o-th-oppnin-serrimon_
 gutenberg_issued: '2009-01-20'
 gutenberg_type: Text
 identifiers:
