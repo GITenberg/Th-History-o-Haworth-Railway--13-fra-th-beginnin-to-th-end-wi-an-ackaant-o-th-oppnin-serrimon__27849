@@ -1,0 +1,30 @@
+_repo: Th-History-o-Haworth-Railway--13-fra-th-beginnin-to-th-end-wi-an-ackaant-o-th-oppnin-serrimon__27849
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bill o'th' Hoylus End
+    aliases:
+    - End, Bill o'th' Hoylus
+    - Wright, William
+    birthdate: 1836
+    deathdate: 1897
+    gutenberg_agent_id: '32913'
+    url: http://www.gutenberg.org/2009/agents/32913
+description: ''
+gutenberg_issued: '2009-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27849'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dialect poetry, English -- England -- Yorkshire'
+- !lcc 'PR'
+title: "Th' History o' Haworth Railway\r\nfra' th' beginnin' to th' end, wi' an ackaant\
+  \ o' th' oppnin' serrimony"
+url: http://www.gutenberg.org/ebooks/27849
